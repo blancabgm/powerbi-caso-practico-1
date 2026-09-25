@@ -18,9 +18,11 @@ Desarrollar un dashboard básico para practicar la creación de informes interac
  
 ## Capturas
 <img width="1755" height="1241" alt="Portada" src="https://github.com/user-attachments/assets/4419d9af-78a7-492b-9480-e585771715aa" />
-<img width="1755" height="1241" alt="Conclusiones" src="https://github.com/user-attachments/assets/aafe9ec1-36c1-442d-948e-cfc3caa8c43c" />
+<br><br>
 <img width="1755" height="1241" alt="Datos" src="https://github.com/user-attachments/assets/2d5991c0-33b2-4493-ad56-09e31ec9c0e6" />
-
+<br><br>
+<img width="1755" height="1241" alt="Conclusiones" src="https://github.com/user-attachments/assets/aafe9ec1-36c1-442d-948e-cfc3caa8c43c" />
+<br><br>
 
 ## Archivos
 
